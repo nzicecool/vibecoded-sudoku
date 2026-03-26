@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Sudoku Master",
+  "description": "A smart Sudoku game featuring AI-powered hints and explanations using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
